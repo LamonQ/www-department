@@ -1,0 +1,7 @@
+2a5ddd16cee1d0cbeb56b139b3eac84cae170750		branch '1.6-stable' of https://github.com/edgewall/trac
+0ec512e42885e7defb66a75aff4163fa7acdabd1	not-for-merge	branch '0.11-stable' of https://github.com/edgewall/trac
+339ae47e41ecdeef2c114b262b561421d4f371fa	not-for-merge	branch '0.12-stable' of https://github.com/edgewall/trac
+ceac4befe20c32ea909b357f51c98000180121e5	not-for-merge	branch '1.0-stable' of https://github.com/edgewall/trac
+1c4e5b68d2a37cd21dc272c973f74a4db24ae04f	not-for-merge	branch '1.2-stable' of https://github.com/edgewall/trac
+38c47c3f368fc621cf982e73831e52f8f709f22b	not-for-merge	branch '1.4-stable' of https://github.com/edgewall/trac
+4e4d0529870bee221c6a4eb0861265487a630ec0	not-for-merge	branch 'trunk' of https://github.com/edgewall/trac

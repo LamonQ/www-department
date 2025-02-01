@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 4e4d0529870bee221c6a4eb0861265487a630ec0 unknown <> 1738313820 -0800	clone: from https://github.com/edgewall/trac.git
+4e4d0529870bee221c6a4eb0861265487a630ec0 4e4d0529870bee221c6a4eb0861265487a630ec0 unknown <> 1738314027 -0800	reset: moving to HEAD
+4e4d0529870bee221c6a4eb0861265487a630ec0 0ec512e42885e7defb66a75aff4163fa7acdabd1 unknown <> 1738314041 -0800	checkout: moving from trunk to 0.11-stable
+0ec512e42885e7defb66a75aff4163fa7acdabd1 339ae47e41ecdeef2c114b262b561421d4f371fa unknown <> 1738314050 -0800	checkout: moving from 0.11-stable to 0.12-stable
+339ae47e41ecdeef2c114b262b561421d4f371fa ceac4befe20c32ea909b357f51c98000180121e5 unknown <> 1738314057 -0800	checkout: moving from 0.12-stable to 1.0-stable
+ceac4befe20c32ea909b357f51c98000180121e5 1c4e5b68d2a37cd21dc272c973f74a4db24ae04f unknown <> 1738314066 -0800	checkout: moving from 1.0-stable to 1.2-stable
+1c4e5b68d2a37cd21dc272c973f74a4db24ae04f 38c47c3f368fc621cf982e73831e52f8f709f22b unknown <> 1738314074 -0800	checkout: moving from 1.2-stable to 1.4-stable
+38c47c3f368fc621cf982e73831e52f8f709f22b 2a5ddd16cee1d0cbeb56b139b3eac84cae170750 unknown <> 1738314084 -0800	checkout: moving from 1.4-stable to 1.6-stable
+2a5ddd16cee1d0cbeb56b139b3eac84cae170750 4e4d0529870bee221c6a4eb0861265487a630ec0 unknown <> 1738314094 -0800	checkout: moving from 1.6-stable to trunk

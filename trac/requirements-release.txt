@@ -1,0 +1,8 @@
+# Packages needed to create a release.
+setuptools
+wheel
+jinja2
+babel
+setuptools_subversion
+twine
+pypandoc
